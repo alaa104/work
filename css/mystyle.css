@@ -1,0 +1,674 @@
+.jumbotron{
+    
+    
+    background-image: url("../img/tree.jpg");
+    
+    background-repeat: no-repeat;
+    
+    color: #dff9fb;
+    
+     margin-bottom: 0px;
+  /*  margin-top: 30px;*/
+    
+    min-height: 100%;
+}
+
+.mylead{
+    
+    
+    background-color: rgba(52,73,94,0.55);
+}
+
+
+.s1{
+    
+    height: 900px;
+}
+
+.myfontColor{
+    
+    
+    
+    color: #212529;
+    
+}
+
+#product{
+    
+    
+    background-color: #ecf0f1;
+    
+   
+}
+
+
+.mypadding{
+
+padding-top:40px;
+
+
+}
+
+.mycol{
+    
+    
+   padding-left:30px;  
+       
+   padding-right: 40px;
+}
+
+.bu{
+    
+    list-style-type: none;
+    
+}
+
+.myText{
+    
+    text-align: center;
+}
+
+
+#price{
+    
+    
+    background-color: #c8d6e5;
+    padding-top: 50px;
+}
+
+.mycard2{
+    
+    
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+
+
+.lang{
+    
+    
+    margin-left: 1200px;
+}
+
+.lab{
+    
+    margin-bottom: 100px;
+    
+}
+
+.lab1{
+    
+    margin-left: 10px;
+    
+}
+
+
+.photo{
+    
+    
+    
+    padding-left: 400px;
+}
+
+
+.obj{
+    
+    
+    background-image: url(../img/p5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+
+.t1{
+    
+    
+    padding-top: 160px;
+}
+
+.pep{
+    
+    
+    color:#fbc531;
+    
+    font-size: 20px;
+    
+    font-style:italic;
+    
+    margin-left: 1150px;
+    
+   
+    
+}
+
+.pep1{
+    
+    color:#10ac84;
+    
+    font-size: 20px;
+    
+    margin-left: 10px;
+    
+    
+    border-color: #10ac84;
+}
+
+
+
+
+#business{
+    
+     background-image: url("");
+    
+    background-repeat: no-repeat;
+   
+}
+
+
+.my-text{
+    
+    
+    font-size: 15px;
+    
+    text-align: justify;
+}
+
+
+.o1{
+    
+    
+    background-image: url(../proj/p2.jpg);
+}
+
+
+.mybtoo{
+    
+    padding-bottom: 60px;
+    
+}
+
+.icocolor{
+    
+    color: #c0392b;
+}
+
+.card{
+    
+    box-shadow: 3px 2px 1px 2px;
+    
+    color: #079992;
+}
+
+.pep4{
+    
+    text-align: justify;
+}
+
+.langu{
+    
+    color: #2ecc71;
+    
+    margin-left: 150px;
+}
+
+.col1{
+    
+    
+    color: #f1c40f;
+}
+
+.langu1{
+    
+      color: #2ecc71;
+}
+
+.p1{
+    
+    
+    color: #fab1a0;
+}
+
+.o1{
+    
+    
+    background-image: url(../proj/p3.jpg);
+    
+    background-repeat: no-repeat; 
+    
+    height: 900px;
+    
+    background-size: cover;
+}
+
+.c1{
+    
+    
+    margin: 20px;
+    
+   
+    height: 450px;
+    
+    
+    margin-left: 300px;
+}
+
+.card-text{
+    
+    
+    text-align: justify;
+}
+
+j1{
+    
+    background-image: url(../proj/p5.png)
+    
+}
+.myspan{
+    
+    background-color: #bdc3c7;
+    
+    color:#e67e22;
+}
+#contact{
+    
+    padding-top: 40px;
+    background-color: #ecf0f1;
+}
+#footer{
+    
+    padding-top: 60px;
+    background-color: #0a3d62;
+    color: #dcdde1;
+}
+
+.fixul{
+    
+    padding-left: 0px;
+    
+}
+
+#footer1{
+    
+    background-color: #40739e;
+}
+
+#myinfo{
+    
+    
+    
+    
+    
+ /* background-color: #bdc3c7;  
+   padding-top: 100px;
+    padding-bottom: 100px;*/
+    
+    
+}
+#myteam{
+    
+       
+   padding-top: 100px;
+    padding-bottom: 100px;
+    
+    
+}
+
+.mylist{
+    
+    list-style-type: none;
+}
+
+
+a:hover {
+    color: #005712;
+    
+}
+
+a {
+    color: #16a085;
+}
+.mysize{
+    
+    width: 100px;
+    height: 500px;
+}
+
+#btnScroll{
+    
+    display: none;
+
+    position: fixed;
+    
+    bottom: 30px;
+    
+    right: 40px;
+    
+    z-index: 99;
+    
+    cursor: pointer;
+    
+    padding: 16px;
+    
+    
+}
+
+
+.myText{
+    
+    
+    padding-top: 50px;
+    
+    text-align: center;
+    
+    color: #ecf0f1;
+    
+}
+
+.myspan{
+    
+    
+    background-color:#535c68;
+    
+}
+
+
+.myText1{
+    
+    
+    padding-top: 30px;
+    
+    text-align: center;
+    
+    color: #ecf0f1;
+    
+    
+}
+.cont{
+    
+    
+    padding-top: 50px;
+}
+
+.hie{
+    
+    
+    height: 180px;
+    
+    box-shadow: 1px 1px 1px 2px;
+    
+    border-color: #7ed6df;
+    
+    border-style:solid;
+    
+    border-radius: 30px;
+    
+    border-width:thick;
+}
+
+.marg{
+    
+    
+    margin-left: 230px;
+}
+
+#news{
+    
+    background-color: #60a3bc;
+    
+    background-repeat: no-repeat;
+    
+    background-size: cover;
+    
+    height: 900px;
+
+    
+    
+}
+
+.newscon{
+    
+    padding-top:100px; 
+}
+
+.n1{
+    
+    
+    margin-left: 100px;
+    color: #b71540;
+    
+}
+.n2{
+    
+    
+    margin-left: 200px;
+    color: #b71540;
+    
+}
+
+.n3{
+    
+    
+    margin-left: 240px;
+    color: #b71540;
+    
+}
+
+#more{
+    
+    
+    background-image: url(../proj/backg5.jpg);
+}
+
+.m1{
+    
+    padding-top: 100px;
+}
+
+.m2{
+    
+          box-shadow: 2px 2px 2px 2px;
+           border-color: #7ed6df;
+
+}
+
+.m3{
+    
+    margin-left: 400px;
+    
+    color: #e17055;
+}
+
+.m4{
+    
+    padding-top: 20px;
+    color: #e17055;
+}
+
+#commin{
+    
+    background-color: #535c68;
+}
+
+.co1{
+    
+    
+    padding-top: 100px;
+}
+
+
+
+
+
+
+
+
+
+     
+      
+          
+         
+    <div class="col">
+
+      
+      
+            <div class="card bg-dark text-white">
+            <img src="dist/proj/news5.jpg" class="card-img" alt="...">
+            <div class="card-img-overlay">
+            <h5 class="card-title">Card title</h5>
+            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+            <p class="card-text">Last updated 3 mins ago</p>
+            </div>
+            </div>
+      
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <div class="col">
+
+      
+            <div class="card bg-dark text-white">
+            <img src="dist/proj/news3.jpg" class="card-img" alt="...">
+            <div class="card-img-overlay">
+            <h5 class="card-title">Card title</h5>
+            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+            <p class="card-text">Last updated 3 mins ago</p>
+            </div>
+            </div>
+      
+  </div>
+     
+          
+               
+
+
+
+
+
+
+
+
+.card1{
+    
+    box-shadow: 3px 2px 1px 2px;
+    
+    color: #079992;
+}
+
+
+.card-text{
+    
+    
+    text-align: justify;
+}
+
+
+
+
+
+
+
+
+
+  <div class=" hstyle  col-md-6  col-sm-12 col-lg-6">
+   
+  <div class="card " style="width: 18rem;">
+  <div class="card-body ">
+  <h5 class="card-title  hstyle1">الشخص الأصم</h5>
+  <p class="card-text hstyle1 myline-h">هو الشخص ليس له اذن مريضة بل هو شخص لديه نفس القدرة و الأمكانيات والحقوق كالأشخاص الأخرين ولكن عليه أن يواجه عوائق في الأتصال و التواصل وهذا يجعله غير قادر على التعامل مع المجتمع</p>
+  </div>
+</div>
+      
+ </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+رعايه
+
+
+
+          <p class="myText" > <span class="myspan">هناك عدة عوامل التي تسهم بشكل أو باخرفي نجاح البرنامج في رعاية وتحسين مستوى التواصل لدى ذوي الأعاقة السمعية</span></p>      
+     
+ 
+     
+        
+     <div class="container">
+ 
+         
+            
+     <div class="row pacard">
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body cardpackg">
+        <h5 class="card-title hstyle1" >التدريب على مهارات التفاعل الأسري </h5>
+        <p class="card-text hstyle1">من خلال أنشطة تدعم التماسك الأسري والذي يشير الى درجة الترابط بين أفراد الأسرة للتعاون فيما بينهم ,أو هو درجة التي يحب بها كل عضو بقية أفراد الجماعة ,وهو خاصية سلوكية تعكس التوحد بين أفراد الجماعة وتؤكد الإرتباط الوثيق في الأهداف مع شعور عميق بالأنتماء للجماعة</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body cardpackg">
+        <h5 class="card-title hstyle1">التدريب على مهارات التواصل التعبيري </h5>
+        <p class="card-text hstyle1">من خلال أنشطة تدعم القدرة على التعبير عن الأفكار والمشاعر سواء من خلال لغة الإشارة ,الهجاء الإصبعي ,مهارة قراءة الشفاه,القراءة والكتابة ,إستخدام أنماط التواصل المختلفة من خلال توظيفها في إطار التفاعل الأسري و الأجتماعي</p>
+      </div>
+    </div>
+  </div>
+</div>
+        
+         
+         
+       
+     <div class="row  pacard cardbott">
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body cardpackg">
+        <h5 class="card-title hstyle1">التدريب على تنمية الحصيلة اللغوية </h5>
+        <p class="card-text hstyle1">من خلال العديد من الأنشطة الفردية والجماعية مثل: نشاط الكلمات المترادفة ,نشاط الكلمات المتضادة ,الكلمات التي تبدأ بحرف واحد ,مهارة التصنيف, ملئ الفراغات ,بناء الجمل ,أين الكلمة ,مربع الحروف والكلمات والكلمات المتقاطعة ’ وتنمية الوعي المعرفي</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body cardpackg">
+        <h5 class="card-title hstyle1">حرية التعبير عن المشاعر والأحاسيس</h5>
+        <p class="card-text hstyle1">ويعني مدى الحرية المتاحة للأفراد للتعبير عن أحاسيسهم والدفاع عن حقوقهم الشخصية ,وتكوين علاقة سهلة ودائمة مع الاّخرين ,بسبب الطمأنينة المتبادلة وعدم الخوف من كشف الذات ومهارات الأستقلال والتي تعني منح الفرد قدراً من الحرية في أداء سلوكه </p>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
